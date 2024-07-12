@@ -12,7 +12,7 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ➖ ➕ ➖ ➕ ➖
 
-❌ ❕ ❌ ❕ ⭕
+❌ ❕ ❌ ❕ ⭕dsf
 ывfs
 ## Representing Statesf
 Leo allows users to define composite data types with the `struct` keyword. sfsdf
